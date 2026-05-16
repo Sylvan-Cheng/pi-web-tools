@@ -1,0 +1,5 @@
+# pi cache
+.pi/cache/
+
+# Git
+.git/

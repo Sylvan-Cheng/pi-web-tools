@@ -1,0 +1,6 @@
+[submodule ".pi/extensions/firecrawl"]
+	path = .pi/extensions/firecrawl
+	url = https://github.com/Sylvan-Cheng/pi-firecrawl-extension
+[submodule ".pi/extensions/tavily"]
+	path = .pi/extensions/tavily
+	url = https://github.com/Sylvan-Cheng/pi-tavily-extension
